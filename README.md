@@ -1,6 +1,6 @@
 🚀 ISO 27001:2013 to ISO 27001:2022 Transition – HackTech Project
 
-This repository demonstrates the transition process from ISO/IEC 27001:2013 to ISO/IEC 27001:2022, implemented for an imaginary small-scale product-based organization named _HackTech
+This repository demonstrates the transition process from ISO/IEC 27001:2013 to ISO/IEC 27001:2022, implemented for an imaginary small-scale product-based organization named HackTech
 
 📌 Project Overview
 
@@ -8,11 +8,11 @@ With the release of ISO 27001:2022, several structural and control-level changes
 
 🔄 Key Transition Activities
 
-- ✅ Review and update all mandatory documents and policies aligned with 2022 clauses  
+- ✅ Perform a GAP Assessment to identify compliance gaps between 2013 and 2022 
+- ✅ Conduct Risk Assessment based on updated Annex A
 - ✅ Update the Statement of Applicability (SoA) to map against the revised 93 controls  
-- ✅ Perform a GAP Assessment to identify compliance gaps between 2013 and 2022  
-- ✅ Conduct Risk Assessment based on updated Annex A  
-- ✅ Create new documents required for additional controls introduced in v22  
+- ✅ Create new documents required for additional controls introduced in v22 
+- ✅ Review and update all mandatory documents and policies aligned with 2022 clauses  
 
 🆕 New Documents Added (As per ISO 27001:2022 Requirements)
 
@@ -21,9 +21,7 @@ With the release of ISO 27001:2022, several structural and control-level changes
 - Data Masking (A.8.11)  
 - Data Leakage Prevention (DLP) Policy (A.8.12)  
 - Web Filtering Policy (A.8.23)  
-- Secure Coding Guidelines (A.8.28)  
 - Configuration Management Procedure (A.8.9)  
-- Remote Working Policy (A.6.7)  
 - Updated Risk Assessment Report and SoA Template  
 
  📁 What’s Included
